@@ -1,4 +1,4 @@
 easyocr
 pyperclip
 nltk
-matplotlib.pyplot
+matplotlib
