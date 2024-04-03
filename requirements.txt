@@ -3,4 +3,3 @@ PIL
 pyperclip
 nltk
 matplotlib.pyplot
-from collections import Counter
