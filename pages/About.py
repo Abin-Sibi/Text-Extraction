@@ -1,6 +1,4 @@
 import streamlit as st
-import matplotlib.pyplot as plt
-from PIL import Image
 import numpy as np
 
 def show_about_page():
